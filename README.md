@@ -61,19 +61,35 @@ The game will punish you for death resetting your characters resources, but the 
 
 ---
 
-## סקר שוק
+## Market Survey
 
-לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
+We searched for similar games using the expression "Open World Sea Adventure"
 
-חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
+#1. Horizon's Gate
 
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
+![image](https://github.com/GameCourse2024/Sea_Treasure_Hunters/assets/118755048/d8909de6-0c32-4446-8581-6e532c72bdeb)
 
-* שימו קישור וצילום-מסך להמחשה.
-* הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
+https://store.steampowered.com/app/1224290/Horizons_Gate/
 
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
+The main difference between our games will be that our game is meant to be 3D and more time spent on the islands than on the sea leading to the sense of exploration being greater.
+
+#2. Sid Meier's Pirates
+
+![image](https://github.com/GameCourse2024/Sea_Treasure_Hunters/assets/118755048/c2f0e531-40cb-45d9-8527-113b83026183)
+
+https://store.steampowered.com/app/3920/Sid_Meiers_Pirates/
+
+Sid Meier's Pirates is not only interfaces, but very heavyily influenced by interfaces and click decision making as opposed to going and doing it by yourself that leads once again to a loss in sense of exploration.
+
+
+
+#3. Lost At Sea
+
+![image](https://github.com/GameCourse2024/Sea_Treasure_Hunters/assets/118755048/f0e8a4dc-0828-4e42-900b-c88d304aba4f)
+
+https://store.steampowered.com/app/1278750/Lost_At_Sea/
+
+The game Lost At Sea is about building your own island in the sea in order to survive in a world on your own, our game differs by exploring inhabited island and giving you the option of saving them or saving individuals giving you a sense of accomplishment for saving others, that this game doesn't.
 
 
 </div>
