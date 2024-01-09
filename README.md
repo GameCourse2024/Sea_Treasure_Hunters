@@ -65,6 +65,9 @@ The game will punish you for death resetting your characters resources, but the 
 
 We searched for similar games using the expression "Open World Sea Adventure"
 
+
+
+
 #1. Horizon's Gate
 
 ![image](https://github.com/GameCourse2024/Sea_Treasure_Hunters/assets/118755048/d8909de6-0c32-4446-8581-6e532c72bdeb)
@@ -73,6 +76,10 @@ https://store.steampowered.com/app/1224290/Horizons_Gate/
 
 The main difference between our games will be that our game is meant to be 3D and more time spent on the islands than on the sea leading to the sense of exploration being greater.
 
+
+
+
+
 #2. Sid Meier's Pirates
 
 ![image](https://github.com/GameCourse2024/Sea_Treasure_Hunters/assets/118755048/c2f0e531-40cb-45d9-8527-113b83026183)
@@ -80,6 +87,8 @@ The main difference between our games will be that our game is meant to be 3D an
 https://store.steampowered.com/app/3920/Sid_Meiers_Pirates/
 
 Sid Meier's Pirates is not only interfaces, but very heavyily influenced by interfaces and click decision making as opposed to going and doing it by yourself that leads once again to a loss in sense of exploration.
+
+
 
 
 
