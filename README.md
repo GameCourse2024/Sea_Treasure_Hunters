@@ -10,89 +10,54 @@ This game will have to do with exploring the world, going on an adventure into t
 
 Sea Treasure Hunters is designed for PC
 
+![ship](https://github.com/GameCourse2024/Sea_Treasure_Hunters/assets/118755048/4842e087-6fea-40cd-9a76-48681ac07cc6)
 
 
-תארו את הרעיון המרכזי של המשחק שלכם
-(concept) 
-בשלושה-ארבעה משפטים.
 
-לאיזה פלטפורמה מיועד המשחק שלכם (כגון: מחשב רגיל / טלפון נייד / אינטרנט)?
-
-שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
-
----
+## Official Components
 
 
-## רכיבים רשמיים
 
-ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
-(החליפו את הטקסט של השאלות בתשובות שלכם).
+### 1. Players
 
-המחישו את התשובות שלכם בעזרת ציורי-מסך.
-
-### 1. שחקנים
-
-* לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
-* לכמה שחקנים מיועד המשחק?
-* מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
-
-### 2. יעדים
-
-* מה הם היעדים שהשחקן צריך להשיג כדי לנצח במשחק?
-* איך המשחק יודיע לשחקן את היעדים שלו? 
+This game is designed for 14-20 year olds that don't need previous experience and are ok at games. It is a singleplayer game.
 
 
-### 3. תהליכים
+### 2. Goals
 
-תארו בפירוט את:
-
-* תהליך ההתחלה של המשחק - שלושים השניות הראשונות (זה הזמן ששחקן ממוצע, שייתקל במשחק שלכם באינטרנט, ישחק בו לפני שיחליט אם להמשיך או לא. מה תעשו כדי לגרום לו להישאר?);
-*	תהליך הליבה של המשחק – רצף-הפעולות שהשחקן מבצע שוב ושוב על-מנת להתקדם במשחק.
-*	תהליך הסיום של המשחק – הפעולות שהשחקן מבצע כדי לנצח / לסיים את המשחק.
-לגבי כל תהליך, ענו על השאלות: "מי עושה מה, איפה, מתי, ואיך?".  תארו באיזה פקדים השחקן ישתמש (עכבר / מקלדת / מגע), ומה יקרה במשחק כתוצאה מכך.
-
-איך השחקן ילמד על התהליכים? 
-
-### 4. חוקים
-
-* איזה חוקים יגבילו את פעולות השחקן במשחק?
-* לפי איזה חוקים ייקבעו תוצאות של פעולות במשחק?
-* איך השחקן ילמד את חוקי המשחק?
+The player needs to proceed through islands till he reaches the last island, the player will know he is proceeding when the next island unlocks for him.
 
 
-### 5. משאבים
 
-* מה יהיו המשאבים במשחק?
-* איך המשאבים הללו יועילו לשחקן?
-* איך השחקן יוכל להשיג משאבים?
-* איך עיצוב המשחק יגרום לכך שהמשאבים יהיו נדירים (שלא יהיה קל מדי להשיג אותם)?
-* איך המשחק יודיע לשחקן מה הם המשאבים במשחק, וכמה משאבים יש לו בכל רגע?
+### 3. Procedures
 
-### 6. עימותים
-
-מה יהיו העימותים המרכזיים במשחק:
-
-* בין השחקן למערכת (מכשולים),
-* בין השחקן לשחקנים אחרים (יריבים),
-* בין השחקן לעצמו (דילמות)? 
+The player will first be thrown into an action scene with a guide explaining the buttons needed to move, interact and fight. After seeing a cut-scene about how everyone is finding the great treasure. The player will need to keep on advancing through islands till reaching his final destination by sailing to the final island and defeating the final boss.
 
 
-### 7. גבולות
 
-מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
-* סגור או פתוח?
-*  עגול או שטוח? 
+### 4. Rules
 
- איך המשחק יראה לשחקן את הגבולות? 
- 
- הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
+The player cannot sail to a new island before completing a main mission given to him on the island he is currently on, neither can the player sail back so think hard before advancing the player will be warned about this before advancing to a new island.
 
 
-### 8. תוצאות
+### 5. Resources
 
-* כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
-* עד כמה התוצאה תלויה במזל לעומת כישרון? 
-* האם המשחק יהיה "סכום אפס", שיתופי, או מורכב?
+The games resources will be points he can decide to put into strength, hitpoints, defense and navigation besides that he will use gold as currency allowing him to buy crewmates and repair or buy ships and better armour or weapons. The player will earn these by completing island missions and defeating evil pirates, the harder the missions and pirates the more curreny it will drop, these stats and gold will be displayed on screen at all times for the player to see and explained in depth in a tutorial.
+
+### 6. Confrontation
+
+The confrontations in this game will be between the player and his surroundings, fish attacking the ship and pirates raiding islands you need to defend, the player will also have a dillema each time he wants to move on to a new island making sure he left nothing behind.
+
+
+
+
+### 7. Bounds
+
+The bounds of the game will be each time the island you are in, you won't be able to walk into the sea by yourself and the navigation to the next island will be a fixed path not allowing you to steer off it. when ou try steering too far to one side the game will correct you back to the right path, not allowing you to steer wherever you want. There will be a minimap showing your location and points of interest near you.
+
+### 8. Results
+
+The game will punish you for death resetting your characters resources, but the game is progress based so reaching the end will always be a possibility.
 
 ---
 
